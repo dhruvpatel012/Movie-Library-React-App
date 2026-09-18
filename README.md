@@ -4,7 +4,7 @@ Cinevia is a responsive movie library web application built with React. It allow
 
 ## Live Demo
 
-🔗 [Cinevia](YOUR_VERCEL_URL)
+🔗 [Cinevia](https://movie-library-react-app.vercel.app/)
 
 ## Features
 
