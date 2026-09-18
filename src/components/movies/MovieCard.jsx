@@ -1,9 +1,12 @@
+import { useState } from "react";
 import { Heart } from "lucide-react";
 import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 
 function MovieCard({ movie }) {
   const dispatch = useDispatch();
+
+  const [touchVisible, setTouchVisible] = useState(false);
 
   const favorites = useSelector((state) => state.library.favorites);
 
@@ -12,7 +15,9 @@ function MovieCard({ movie }) {
   // Use the local poster stored inside public/posters.
   const poster = `/posters/${movie.id}.jpg`;
 
-  const handleFavorite = () => {
+  const handleFavorite = (event) => {
+    event.stopPropagation();
+
     if (isFavorite) {
       dispatch({
         type: "REMOVE_FAVORITE",
@@ -26,9 +31,16 @@ function MovieCard({ movie }) {
     }
   };
 
+  const handleCardTap = () => {
+    setTouchVisible((visible) => !visible);
+  };
+
   return (
     <article className="group min-w-0">
-      <div className="relative aspect-2/3 overflow-hidden rounded-2xl bg-[#171d20]">
+      <div
+        onClick={handleCardTap}
+        className="relative aspect-2/3 overflow-hidden rounded-2xl bg-[#171d20]"
+      >
         {poster ? (
           <img
             src={poster}
@@ -41,14 +53,22 @@ function MovieCard({ movie }) {
           </div>
         )}
 
-        <div className="absolute inset-0 bg-linear-to-t from-black/80 via-transparent to-transparent opacity-0 transition duration-300 group-hover:opacity-100" />
+        <div
+          className={`absolute inset-0 bg-linear-to-t from-black/80 via-transparent to-transparent transition duration-300 ${
+            touchVisible ? "opacity-100" : "opacity-0 group-hover:opacity-100"
+          }`}
+        />
 
         <button
           onClick={handleFavorite}
           className={`absolute right-3 top-3 flex h-8 w-8 items-center justify-center rounded-full backdrop-blur-md transition ${
             isFavorite
               ? "bg-[#f5c542] text-black"
-              : "bg-black/50 text-white opacity-0 group-hover:opacity-100"
+              : `bg-black/50 text-white ${
+                  touchVisible
+                    ? "opacity-100"
+                    : "opacity-0 group-hover:opacity-100"
+                }`
           }`}
           aria-label={
             isFavorite
@@ -61,7 +81,10 @@ function MovieCard({ movie }) {
 
         <Link
           to={`/movie/${movie.id}`}
-          className="absolute bottom-3 left-3 rounded-lg bg-white px-3 py-2 text-xs font-semibold text-black opacity-0 transition group-hover:opacity-100"
+          onClick={(event) => event.stopPropagation()}
+          className={`absolute bottom-3 left-3 rounded-lg bg-white px-3 py-2 text-xs font-semibold text-black transition ${
+            touchVisible ? "opacity-100" : "opacity-0 group-hover:opacity-100"
+          }`}
         >
           View Details
         </Link>

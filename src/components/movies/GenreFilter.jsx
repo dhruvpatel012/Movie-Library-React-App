@@ -11,7 +11,7 @@ const genres = [
 
 function GenreFilter({ activeGenre, onGenreChange }) {
   return (
-    <div className="mt-5 overflow-x-auto pb-1">
+    <div className="no-scrollbar mt-5 overflow-x-auto pb-1">
       <div className="flex min-w-max gap-2">
         {genres.map((genre) => {
           const isActive = activeGenre === genre;
