@@ -1,0 +1,1455 @@
+[
+  {
+    "id": "tt0111161",
+    "primaryTitle": "The Shawshank Redemption",
+    "originalTitle": "The Shawshank Redemption",
+    "type": "movie",
+    "description": "Two imprisoned men build an enduring friendship and find hope while serving long sentences.",
+    "primaryImage": "/posters/tt0111161.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Shawshank%20Redemption%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1994,
+    "releaseDate": "1994-01-01",
+    "genres": ["Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 9.3,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Tim Robbins"
+      },
+      {
+        "name": "Morgan Freeman"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Frank Darabont"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0068646",
+    "primaryTitle": "The Godfather",
+    "originalTitle": "The Godfather",
+    "type": "movie",
+    "description": "The aging patriarch of a powerful crime family transfers control of his empire to his reluctant son.",
+    "primaryImage": "/posters/tt0068646.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Godfather%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1972,
+    "releaseDate": "1972-01-01",
+    "genres": ["Crime", "Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 9.2,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Marlon Brando"
+      },
+      {
+        "name": "Al Pacino"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Francis Ford Coppola"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0468569",
+    "primaryTitle": "The Dark Knight",
+    "originalTitle": "The Dark Knight",
+    "type": "movie",
+    "description": "Batman faces a criminal mastermind who pushes Gotham into chaos.",
+    "primaryImage": "/posters/tt0468569.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2008,
+    "releaseDate": "2008-01-01",
+    "genres": ["Action", "Crime", "Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 9.1,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Christian Bale"
+      },
+      {
+        "name": "Heath Ledger"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Christopher Nolan"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0071562",
+    "primaryTitle": "The Godfather Part II",
+    "originalTitle": "The Godfather Part II",
+    "type": "movie",
+    "description": "The rise of a young Vito Corleone is interwoven with the story of his son Michael's growing empire.",
+    "primaryImage": "/posters/tt0071562.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Godfather%20Part%20II%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1974,
+    "releaseDate": "1974-01-01",
+    "genres": ["Crime", "Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 9.0,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Al Pacino"
+      },
+      {
+        "name": "Robert De Niro"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Francis Ford Coppola"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0167260",
+    "primaryTitle": "The Lord of the Rings: The Return of the King",
+    "originalTitle": "The Lord of the Rings: The Return of the King",
+    "type": "movie",
+    "description": "The final battle for Middle-earth begins as the forces of good make their last stand.",
+    "primaryImage": "/posters/tt0167260.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Lord%20of%20the%20Rings%3A%20The%20Return%20of%20the%20King%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2003,
+    "releaseDate": "2003-01-01",
+    "genres": ["Action", "Adventure", "Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 9.0,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Elijah Wood"
+      },
+      {
+        "name": "Viggo Mortensen"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Peter Jackson"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0050083",
+    "primaryTitle": "12 Angry Men",
+    "originalTitle": "12 Angry Men",
+    "type": "movie",
+    "description": "A juror tries to convince the others to reconsider their decision in a difficult murder case.",
+    "primaryImage": "/posters/tt0050083.svg",
+    "trailer": "https://www.youtube.com/results?search_query=12%20Angry%20Men%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1957,
+    "releaseDate": "1957-01-01",
+    "genres": ["Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 9.0,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Henry Fonda"
+      },
+      {
+        "name": "Lee J. Cobb"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Sidney Lumet"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0108052",
+    "primaryTitle": "Schindler's List",
+    "originalTitle": "Schindler's List",
+    "type": "movie",
+    "description": "A German businessman gradually risks everything to protect Jewish workers during World War II.",
+    "primaryImage": "/posters/tt0108052.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Schindler%27s%20List%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1993,
+    "releaseDate": "1993-01-01",
+    "genres": ["Biography", "Drama", "History"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 9.0,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Liam Neeson"
+      },
+      {
+        "name": "Ben Kingsley"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Steven Spielberg"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0120737",
+    "primaryTitle": "The Lord of the Rings: The Fellowship of the Ring",
+    "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
+    "type": "movie",
+    "description": "A young hobbit begins a dangerous journey to destroy a powerful ring.",
+    "primaryImage": "/posters/tt0120737.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Lord%20of%20the%20Rings%3A%20The%20Fellowship%20of%20the%20Ring%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2001,
+    "releaseDate": "2001-01-01",
+    "genres": ["Action", "Adventure", "Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.9,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Peter Jackson"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0110912",
+    "primaryTitle": "Pulp Fiction",
+    "originalTitle": "Pulp Fiction",
+    "type": "movie",
+    "description": "The lives of several criminals and outsiders intersect through a series of connected stories.",
+    "primaryImage": "/posters/tt0110912.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Pulp%20Fiction%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1994,
+    "releaseDate": "1994-01-01",
+    "genres": ["Crime", "Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.9,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "John Travolta"
+      },
+      {
+        "name": "Samuel L. Jackson"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Quentin Tarantino"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0167261",
+    "primaryTitle": "The Lord of the Rings: The Two Towers",
+    "originalTitle": "The Lord of the Rings: The Two Towers",
+    "type": "movie",
+    "description": "The fellowship continues its struggle against the growing forces of darkness.",
+    "primaryImage": "/posters/tt0167261.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Lord%20of%20the%20Rings%3A%20The%20Two%20Towers%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2002,
+    "releaseDate": "2002-01-01",
+    "genres": ["Action", "Adventure", "Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.8,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Peter Jackson"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0060196",
+    "primaryTitle": "The Good, the Bad and the Ugly",
+    "originalTitle": "The Good, the Bad and the Ugly",
+    "type": "movie",
+    "description": "Three gunslingers search for buried gold during the American Civil War.",
+    "primaryImage": "/posters/tt0060196.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Good%2C%20the%20Bad%20and%20the%20Ugly%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1966,
+    "releaseDate": "1966-01-01",
+    "genres": ["Western"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.8,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Sergio Leone"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0109830",
+    "primaryTitle": "Forrest Gump",
+    "originalTitle": "Forrest Gump",
+    "type": "movie",
+    "description": "A kind-hearted Alabama man experiences several defining moments of American history.",
+    "primaryImage": "/posters/tt0109830.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Forrest%20Gump%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1994,
+    "releaseDate": "1994-01-01",
+    "genres": ["Drama", "Romance"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.8,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Tom Hanks"
+      },
+      {
+        "name": "Robin Wright"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Robert Zemeckis"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0137523",
+    "primaryTitle": "Fight Club",
+    "originalTitle": "Fight Club",
+    "type": "movie",
+    "description": "An insomniac office worker forms an underground fight club with a mysterious soap maker.",
+    "primaryImage": "/posters/tt0137523.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Fight%20Club%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1999,
+    "releaseDate": "1999-01-01",
+    "genres": ["Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.8,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Brad Pitt"
+      },
+      {
+        "name": "Edward Norton"
+      }
+    ],
+    "directors": [
+      {
+        "name": "David Fincher"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt1375666",
+    "primaryTitle": "Inception",
+    "originalTitle": "Inception",
+    "type": "movie",
+    "description": "A skilled thief enters people's dreams to steal secrets and is given a seemingly impossible task.",
+    "primaryImage": "/posters/tt1375666.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Inception%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2010,
+    "releaseDate": "2010-01-01",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.8,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio"
+      },
+      {
+        "name": "Joseph Gordon-Levitt"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Christopher Nolan"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0080684",
+    "primaryTitle": "Star Wars: Episode V - The Empire Strikes Back",
+    "originalTitle": "Star Wars: Episode V - The Empire Strikes Back",
+    "type": "movie",
+    "description": "The Rebel Alliance faces a major setback as the Empire strikes back.",
+    "primaryImage": "/posters/tt0080684.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Star%20Wars%3A%20Episode%20V%20-%20The%20Empire%20Strikes%20Back%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1980,
+    "releaseDate": "1980-01-01",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.7,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Irvin Kershner"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0133093",
+    "primaryTitle": "The Matrix",
+    "originalTitle": "The Matrix",
+    "type": "movie",
+    "description": "A computer hacker discovers that reality is not what it appears to be.",
+    "primaryImage": "/posters/tt0133093.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Matrix%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1999,
+    "releaseDate": "1999-01-01",
+    "genres": ["Action", "Sci-Fi"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.7,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Keanu Reeves"
+      },
+      {
+        "name": "Laurence Fishburne"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Lana Wachowski"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0099685",
+    "primaryTitle": "Goodfellas",
+    "originalTitle": "Goodfellas",
+    "type": "movie",
+    "description": "A young man rises through the ranks of a New York crime organization.",
+    "primaryImage": "/posters/tt0099685.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Goodfellas%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1990,
+    "releaseDate": "1990-01-01",
+    "genres": ["Biography", "Crime", "Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.7,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Martin Scorsese"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0816692",
+    "primaryTitle": "Interstellar",
+    "originalTitle": "Interstellar",
+    "type": "movie",
+    "description": "Explorers travel through a wormhole in search of a new home for humanity.",
+    "primaryImage": "/posters/tt0816692.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Interstellar%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2014,
+    "releaseDate": "2014-01-01",
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.7,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Matthew McConaughey"
+      },
+      {
+        "name": "Anne Hathaway"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Christopher Nolan"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0073486",
+    "primaryTitle": "One Flew Over the Cuckoo's Nest",
+    "originalTitle": "One Flew Over the Cuckoo's Nest",
+    "type": "movie",
+    "description": "A rebellious patient challenges the strict authority of a psychiatric institution.",
+    "primaryImage": "/posters/tt0073486.svg",
+    "trailer": "https://www.youtube.com/results?search_query=One%20Flew%20Over%20the%20Cuckoo%27s%20Nest%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1975,
+    "releaseDate": "1975-01-01",
+    "genres": ["Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.6,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Miloš Forman"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0114369",
+    "primaryTitle": "Se7en",
+    "originalTitle": "Se7en",
+    "type": "movie",
+    "description": "Two detectives investigate a series of murders inspired by the seven deadly sins.",
+    "primaryImage": "/posters/tt0114369.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Se7en%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1995,
+    "releaseDate": "1995-01-01",
+    "genres": ["Crime", "Drama", "Mystery"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.6,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Brad Pitt"
+      },
+      {
+        "name": "Morgan Freeman"
+      }
+    ],
+    "directors": [
+      {
+        "name": "David Fincher"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0102926",
+    "primaryTitle": "The Silence of the Lambs",
+    "originalTitle": "The Silence of the Lambs",
+    "type": "movie",
+    "description": "A young FBI trainee seeks help from an imprisoned killer to catch another serial killer.",
+    "primaryImage": "/posters/tt0102926.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Silence%20of%20the%20Lambs%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1991,
+    "releaseDate": "1991-01-01",
+    "genres": ["Crime", "Drama", "Horror"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.6,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Jodie Foster"
+      },
+      {
+        "name": "Anthony Hopkins"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Jonathan Demme"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0120815",
+    "primaryTitle": "Saving Private Ryan",
+    "originalTitle": "Saving Private Ryan",
+    "type": "movie",
+    "description": "A group of soldiers is sent behind enemy lines to bring a missing paratrooper home.",
+    "primaryImage": "/posters/tt0120815.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Saving%20Private%20Ryan%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1998,
+    "releaseDate": "1998-01-01",
+    "genres": ["Drama", "War"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.6,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Steven Spielberg"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0120689",
+    "primaryTitle": "The Green Mile",
+    "originalTitle": "The Green Mile",
+    "type": "movie",
+    "description": "A prison guard develops an unusual relationship with a mysterious inmate.",
+    "primaryImage": "/posters/tt0120689.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Green%20Mile%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1999,
+    "releaseDate": "1999-01-01",
+    "genres": ["Crime", "Drama", "Fantasy"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.6,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Frank Darabont"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0317248",
+    "primaryTitle": "City of God",
+    "originalTitle": "City of God",
+    "type": "movie",
+    "description": "Two boys grow up in a violent neighborhood while choosing very different paths.",
+    "primaryImage": "/posters/tt0317248.svg",
+    "trailer": "https://www.youtube.com/results?search_query=City%20of%20God%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2002,
+    "releaseDate": "2002-01-01",
+    "genres": ["Crime", "Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.6,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Fernando Meirelles"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0118799",
+    "primaryTitle": "Life Is Beautiful",
+    "originalTitle": "Life Is Beautiful",
+    "type": "movie",
+    "description": "A father uses imagination and humor to protect his son during a terrible period of history.",
+    "primaryImage": "/posters/tt0118799.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Life%20Is%20Beautiful%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1997,
+    "releaseDate": "1997-01-01",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.6,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Roberto Benigni"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0103064",
+    "primaryTitle": "Terminator 2: Judgment Day",
+    "originalTitle": "Terminator 2: Judgment Day",
+    "type": "movie",
+    "description": "A reprogrammed machine returns to protect a young boy from a deadly future threat.",
+    "primaryImage": "/posters/tt0103064.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Terminator%202%3A%20Judgment%20Day%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1991,
+    "releaseDate": "1991-01-01",
+    "genres": ["Action", "Sci-Fi"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.6,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "James Cameron"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0076759",
+    "primaryTitle": "Star Wars: Episode IV - A New Hope",
+    "originalTitle": "Star Wars: Episode IV - A New Hope",
+    "type": "movie",
+    "description": "A young farm boy joins a rebellion against a powerful galactic empire.",
+    "primaryImage": "/posters/tt0076759.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Star%20Wars%3A%20Episode%20IV%20-%20A%20New%20Hope%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1977,
+    "releaseDate": "1977-01-01",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.6,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "George Lucas"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0088763",
+    "primaryTitle": "Back to the Future",
+    "originalTitle": "Back to the Future",
+    "type": "movie",
+    "description": "A teenager accidentally travels back in time and must repair the future.",
+    "primaryImage": "/posters/tt0088763.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Back%20to%20the%20Future%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1985,
+    "releaseDate": "1985-01-01",
+    "genres": ["Adventure", "Comedy", "Sci-Fi"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.5,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Robert Zemeckis"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0245429",
+    "primaryTitle": "Spirited Away",
+    "originalTitle": "Spirited Away",
+    "type": "movie",
+    "description": "A young girl enters a mysterious spirit world and searches for a way to save her parents.",
+    "primaryImage": "/posters/tt0245429.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Spirited%20Away%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2001,
+    "releaseDate": "2001-01-01",
+    "genres": ["Animation", "Adventure", "Family"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.6,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Hayao Miyazaki"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0253474",
+    "primaryTitle": "The Pianist",
+    "originalTitle": "The Pianist",
+    "type": "movie",
+    "description": "A talented pianist struggles to survive during the destruction of his city in World War II.",
+    "primaryImage": "/posters/tt0253474.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Pianist%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2002,
+    "releaseDate": "2002-01-01",
+    "genres": ["Biography", "Drama", "Music"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.5,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Roman Polanski"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt6751668",
+    "primaryTitle": "Parasite",
+    "originalTitle": "Parasite",
+    "type": "movie",
+    "description": "A struggling family gradually becomes involved with a wealthy household.",
+    "primaryImage": "/posters/tt6751668.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Parasite%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2019,
+    "releaseDate": "2019-01-01",
+    "genres": ["Drama", "Thriller"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.5,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Bong Joon Ho"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0172495",
+    "primaryTitle": "Gladiator",
+    "originalTitle": "Gladiator",
+    "type": "movie",
+    "description": "A betrayed Roman general becomes a gladiator and seeks justice.",
+    "primaryImage": "/posters/tt0172495.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Gladiator%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2000,
+    "releaseDate": "2000-01-01",
+    "genres": ["Action", "Adventure", "Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.5,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Russell Crowe"
+      },
+      {
+        "name": "Joaquin Phoenix"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Ridley Scott"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0407887",
+    "primaryTitle": "The Departed",
+    "originalTitle": "The Departed",
+    "type": "movie",
+    "description": "An undercover officer and a mole inside the police try to expose each other.",
+    "primaryImage": "/posters/tt0407887.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Departed%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2006,
+    "releaseDate": "2006-01-01",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.5,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio"
+      },
+      {
+        "name": "Matt Damon"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Martin Scorsese"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt2582802",
+    "primaryTitle": "Whiplash",
+    "originalTitle": "Whiplash",
+    "type": "movie",
+    "description": "An ambitious young drummer is pushed to extreme limits by an demanding instructor.",
+    "primaryImage": "/posters/tt2582802.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Whiplash%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2014,
+    "releaseDate": "2014-01-01",
+    "genres": ["Drama", "Music"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.5,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Miles Teller"
+      },
+      {
+        "name": "J.K. Simmons"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Damien Chazelle"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0482571",
+    "primaryTitle": "The Prestige",
+    "originalTitle": "The Prestige",
+    "type": "movie",
+    "description": "Two rival magicians become obsessed with creating the ultimate illusion.",
+    "primaryImage": "/posters/tt0482571.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Prestige%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2006,
+    "releaseDate": "2006-01-01",
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.5,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Christian Bale"
+      },
+      {
+        "name": "Hugh Jackman"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Christopher Nolan"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt1675434",
+    "primaryTitle": "The Intouchables",
+    "originalTitle": "The Intouchables",
+    "type": "movie",
+    "description": "An unlikely friendship develops between a wealthy man with a disability and his caregiver.",
+    "primaryImage": "/posters/tt1675434.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Intouchables%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2011,
+    "releaseDate": "2011-01-01",
+    "genres": ["Biography", "Comedy", "Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.5,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Olivier Nakache"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0209144",
+    "primaryTitle": "Memento",
+    "originalTitle": "Memento",
+    "type": "movie",
+    "description": "A man with short-term memory loss searches for the person responsible for a devastating crime.",
+    "primaryImage": "/posters/tt0209144.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Memento%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2000,
+    "releaseDate": "2000-01-01",
+    "genres": ["Mystery", "Thriller"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.4,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Guy Pearce"
+      },
+      {
+        "name": "Carrie-Anne Moss"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Christopher Nolan"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt4154796",
+    "primaryTitle": "Avengers: Endgame",
+    "originalTitle": "Avengers: Endgame",
+    "type": "movie",
+    "description": "The remaining Avengers attempt to reverse the devastating events of their previous battle.",
+    "primaryImage": "/posters/tt4154796.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Avengers%3A%20Endgame%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2019,
+    "releaseDate": "2019-01-01",
+    "genres": ["Action", "Adventure", "Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.4,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Robert Downey Jr."
+      },
+      {
+        "name": "Chris Evans"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Anthony Russo"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt4633694",
+    "primaryTitle": "Spider-Man: Into the Spider-Verse",
+    "originalTitle": "Spider-Man: Into the Spider-Verse",
+    "type": "movie",
+    "description": "A teenager becomes Spider-Man and meets heroes from other dimensions.",
+    "primaryImage": "/posters/tt4633694.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Spider-Man%3A%20Into%20the%20Spider-Verse%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2018,
+    "releaseDate": "2018-01-01",
+    "genres": ["Animation", "Action", "Adventure"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.4,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Bob Persichetti"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0110413",
+    "primaryTitle": "Léon: The Professional",
+    "originalTitle": "Léon: The Professional",
+    "type": "movie",
+    "description": "A young girl forms an unusual bond with a professional hitman.",
+    "primaryImage": "/posters/tt0110413.svg",
+    "trailer": "https://www.youtube.com/results?search_query=L%C3%A9on%3A%20The%20Professional%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1994,
+    "releaseDate": "1994-01-01",
+    "genres": ["Action", "Crime", "Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.5,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Luc Besson"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0087843",
+    "primaryTitle": "Once Upon a Time in America",
+    "originalTitle": "Once Upon a Time in America",
+    "type": "movie",
+    "description": "A former gangster reflects on friendship, betrayal and his criminal past.",
+    "primaryImage": "/posters/tt0087843.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Once%20Upon%20a%20Time%20in%20America%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1984,
+    "releaseDate": "1984-01-01",
+    "genres": ["Crime", "Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.3,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Sergio Leone"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0095327",
+    "primaryTitle": "Grave of the Fireflies",
+    "originalTitle": "Grave of the Fireflies",
+    "type": "movie",
+    "description": "Two siblings struggle to survive in Japan during the final months of World War II.",
+    "primaryImage": "/posters/tt0095327.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Grave%20of%20the%20Fireflies%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1988,
+    "releaseDate": "1988-01-01",
+    "genres": ["Animation", "Drama", "War"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.5,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [],
+    "directors": [
+      {
+        "name": "Isao Takahata"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt1853728",
+    "primaryTitle": "Django Unchained",
+    "originalTitle": "Django Unchained",
+    "type": "movie",
+    "description": "A freed slave teams up with a bounty hunter to rescue his wife.",
+    "primaryImage": "/posters/tt1853728.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Django%20Unchained%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2012,
+    "releaseDate": "2012-01-01",
+    "genres": ["Drama", "Western"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.5,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Jamie Foxx"
+      },
+      {
+        "name": "Christoph Waltz"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Quentin Tarantino"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt1345836",
+    "primaryTitle": "The Dark Knight Rises",
+    "originalTitle": "The Dark Knight Rises",
+    "type": "movie",
+    "description": "Batman returns to Gotham as a powerful new enemy threatens the city.",
+    "primaryImage": "/posters/tt1345836.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%20Rises%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2012,
+    "releaseDate": "2012-01-01",
+    "genres": ["Action", "Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.4,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Christian Bale"
+      },
+      {
+        "name": "Tom Hardy"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Christopher Nolan"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt2380307",
+    "primaryTitle": "Coco",
+    "originalTitle": "Coco",
+    "type": "movie",
+    "description": "A young musician enters the Land of the Dead and discovers his family's history.",
+    "primaryImage": "/posters/tt2380307.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Coco%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2017,
+    "releaseDate": "2017-01-01",
+    "genres": ["Animation", "Adventure", "Family"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.4,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Anthony Gonzalez"
+      },
+      {
+        "name": "Gael García Bernal"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Lee Unkrich"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0910970",
+    "primaryTitle": "WALL-E",
+    "originalTitle": "WALL-E",
+    "type": "movie",
+    "description": "A small waste-collecting robot discovers a new purpose and a possible future for humanity.",
+    "primaryImage": "/posters/tt0910970.svg",
+    "trailer": "https://www.youtube.com/results?search_query=WALL-E%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2008,
+    "releaseDate": "2008-01-01",
+    "genres": ["Animation", "Adventure", "Family"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.4,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Ben Burtt"
+      },
+      {
+        "name": "Elissa Knight"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Andrew Stanton"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0110357",
+    "primaryTitle": "The Lion King",
+    "originalTitle": "The Lion King",
+    "type": "movie",
+    "description": "A young lion prince must find his place in the circle of life.",
+    "primaryImage": "/posters/tt0110357.svg",
+    "trailer": "https://www.youtube.com/results?search_query=The%20Lion%20King%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1994,
+    "releaseDate": "1994-01-01",
+    "genres": ["Animation", "Adventure", "Drama"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.5,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Matthew Broderick"
+      },
+      {
+        "name": "Jeremy Irons"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Roger Allers"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0435761",
+    "primaryTitle": "Toy Story 3",
+    "originalTitle": "Toy Story 3",
+    "type": "movie",
+    "description": "Woody, Buzz and their friends face an emotional new chapter as their owner grows up.",
+    "primaryImage": "/posters/tt0435761.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Toy%20Story%203%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2010,
+    "releaseDate": "2010-01-01",
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.3,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Tom Hanks"
+      },
+      {
+        "name": "Tim Allen"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Lee Unkrich"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt0090605",
+    "primaryTitle": "Aliens",
+    "originalTitle": "Aliens",
+    "type": "movie",
+    "description": "A space marine team investigates a distant colony after contact is lost.",
+    "primaryImage": "/posters/tt0090605.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Aliens%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 1986,
+    "releaseDate": "1986-01-01",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.5,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Sigourney Weaver"
+      },
+      {
+        "name": "Michael Biehn"
+      }
+    ],
+    "directors": [
+      {
+        "name": "James Cameron"
+      }
+    ],
+    "writers": []
+  },
+  {
+    "id": "tt15398776",
+    "primaryTitle": "Oppenheimer",
+    "originalTitle": "Oppenheimer",
+    "type": "movie",
+    "description": "A scientist leads a secret wartime project that changes the course of modern history.",
+    "primaryImage": "/posters/tt15398776.svg",
+    "trailer": "https://www.youtube.com/results?search_query=Oppenheimer%20trailer",
+    "contentRating": "PG-13",
+    "startYear": 2023,
+    "releaseDate": "2023-01-01",
+    "genres": ["Biography", "Drama", "History"],
+    "spokenLanguages": ["English"],
+    "runtimeMinutes": 120,
+    "averageRating": 8.2,
+    "numVotes": 1000000,
+    "metascore": null,
+    "cast": [
+      {
+        "name": "Cillian Murphy"
+      },
+      {
+        "name": "Emily Blunt"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Christopher Nolan"
+      }
+    ],
+    "writers": []
+  }
+]
