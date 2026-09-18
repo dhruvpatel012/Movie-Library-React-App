@@ -1,4 +1,4 @@
-# Cinevia — Movie Library
+# Cinevia - Movie Library
 
 Cinevia is a responsive movie library web application built with React. It allows users to explore movies, search for titles, view detailed movie information, and manage their Favorites and Watchlist.
 
